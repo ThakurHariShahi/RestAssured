@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3826" started-at="2019-07-15T13:24:12Z" finished-at="2019-07-15T13:24:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3826" started-at="2019-07-15T13:24:12Z" finished-at="2019-07-15T13:24:16Z">
+      <class name="Qainfotech.SnlRest.Rest">
+        <test-method status="PASS" signature="AddNewPlayer()[pri:-7, instance:Qainfotech.SnlRest.Rest@47c62251]" name="AddNewPlayer" duration-ms="3194" started-at="2019-07-15T13:24:12Z" finished-at="2019-07-15T13:24:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewPlayer -->
+        <test-method status="PASS" signature="DeletePlayer()[pri:-4, instance:Qainfotech.SnlRest.Rest@47c62251]" name="DeletePlayer" duration-ms="590" started-at="2019-07-15T13:24:16Z" finished-at="2019-07-15T13:24:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletePlayer -->
+      </class> <!-- Qainfotech.SnlRest.Rest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
